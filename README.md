@@ -31,7 +31,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shreyans-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyans-jain-4b063667/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](jshrey8@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shreyans-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyans-jain-4b063667/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)]([jshrey8@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=jshrey8@gmail.com))
 
 
 <!--

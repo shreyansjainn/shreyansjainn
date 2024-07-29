@@ -10,10 +10,13 @@
   <a href="https://x.com/py_parrot" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://drive.google.com/file/d/1SJG_EodKVBB2iYBK0awGeSNn-EKk8PAU/view?usp=sharing" target="_blank">
+    <img alt="Resume Badge" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge">
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=shreyansjainn&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi there
+  Hi there, stranger!! Welcome to my Github Profile.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>

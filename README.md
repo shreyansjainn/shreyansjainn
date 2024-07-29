@@ -30,7 +30,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :telescope: I've worked on building Personalization Systems, Search Engines, OCR systems and multiple NLP and forecasting/classical ML projects.
 
-- :seedling: I'm interested in the area of ML interpretability and have recently discovered the field of Mechanistic Interpretability so lot of my side efforts are spent in learning more about the field.
+- :seedling: I'm interested in the area of ML interpretability & RL and have recently discovered the field of Mechanistic Interpretability so a lot of my side efforts are spent in learning more about the field. Earlier I contributed to couple of 
+open source RL projects like Minari & ClearnRL as well.
 
 - :zap: In my free time, I like to read and work out. I'm quite interested in reading about my country's history (and the world's too for that matter), but won't say no to good fiction (bias towards sci-fi) or it can be any other new area which looks interesting. Calisthenics is my go to workout style presently and this year's goal is to have 5 clean reps of pull ups 🏋️ and pistol squats.
 

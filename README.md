@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.webp?cid=ecf05e47p0brtmaps9vdhahb11xv52e1fb5ory0blh142wmd&ep=v1_gifs_related&rid=giphy.webp&ct=s" width="100"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shreyans-jain-4b063667/", target="_blank">
+  <a href="https://www.linkedin.com/in/shreyans-jain-4b063667/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jshrey8@gmail.com", target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jshrey8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://x.com/py_parrot", target="_blank">
+  <a href="https://x.com/py_parrot" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

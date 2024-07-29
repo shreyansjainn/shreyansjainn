@@ -1,8 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.webp?cid=ecf05e47p0brtmaps9vdhahb11xv52e1fb5ory0blh142wmd&ep=v1_gifs_related&rid=giphy.webp&ct=s" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/shreyans-jain-4b063667/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jshrey8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://x.com/py_parrot">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -16,20 +19,20 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJzOTJ2dGtxbjg1YWo5NDR5ODg4dDE0Y29yemJnZzUwYm5ieG5mNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWhSt6azAiDYhW9VhG/giphy.webp" width="600" height="450"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India with 8+ years of experience in applied ML. Right now, I'm on a career break from my full-time job and working on a research project on the topic of Training Dynamics of a Neural Network.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I've worked on building Personalization Systems, Search Engines, OCR systems and multiple NLP and forecasting/classical ML projects.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I'm interested in the area of ML interpretability and have recently discovered the field of Mechanistic Interpretability so lot of my side efforts are spent in learning more about the field.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to read and work out. I'm quite interested in reading about my country's history (and the world's too for that matter), but won't say no to good fiction (bias towards sci-fi) or it can be any other new area which looks interesting. Calisthenics is my go to workout style presently and this year's goal is to have 5 clean reps of pull ups 🏋️ and pistol squats.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shreyans-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyans-jain-4b063667/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jshrey8@gmail.com)
 
@@ -58,10 +61,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shreyansjainn&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansjainn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansjainn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

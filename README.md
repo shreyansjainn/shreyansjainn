@@ -28,6 +28,8 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India with 8+ years of experience in applied ML. Right now, I'm on a career break from my full-time job and working on a research project on the topic of Training Dynamics of a Neural Network.
 
+- :open_book: I studied Civil engineering in undergrad but my high school interest in mathematics trumped it and I found my footing in the field of AI/ML & CS and self-studied my way into it.
+
 - :telescope: I've worked on building Personalization Systems, Search Engines, OCR systems and multiple NLP and forecasting/classical ML projects.
 
 - :seedling: I'm interested in the area of ML interpretability & RL and have recently discovered the field of Mechanistic Interpretability so a lot of my side efforts are spent in learning more about the field. Earlier I contributed to couple of 

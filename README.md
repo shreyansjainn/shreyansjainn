@@ -38,7 +38,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :seedling: I'm interested in the area of ML interpretability & RL and have recently discovered the field of Mechanistic Interpretability so a lot of my side efforts are spent in learning more about the field. Earlier I contributed to couple of 
 open source RL projects like Minari & ClearnRL as well.
 
-- :zap: In my free time, I like to read and work out. I'm quite interested in reading about my country's history (and the world's too for that matter), but won't say no to good fiction (bias towards sci-fi) or it can be any other new area which looks interesting. Calisthenics is my go to workout style presently and this year's goal is to have 5 clean reps of pull ups 🏋️ and pistol squats.
+- :zap: In my free time, I like to read, work out, and learn about the Xs and Os of basketball. I'm quite interested in reading about my country's history (and the world's too for that matter), but won't say no to good fiction (bias towards sci-fi) or it can be any other new area which looks interesting. Calisthenics is my go to workout style presently and this year's goal is to have 5 clean reps of pull ups 🏋️ and pistol squats.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shreyans-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyans-jain-4b063667/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jshrey8@gmail.com)
 

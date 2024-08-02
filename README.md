@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India with 8+ years of experience in applied ML. Right now, I'm on a career break from my full-time job and working on a research project on the topic of Training Dynamics of a Neural Network.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India with 8+ years of experience in applied ML. Right now, I'm on a career break from my full-time job and working on a research project on the topic of Visualizing the Training Dynamics & Latent States of a Neural Network with a team of researchers from NYU.
 
 - :open_book: I studied Civil engineering in undergrad but my high school interest in mathematics trumped it and I found my footing in the field of AI/ML & CS and self-studied my way into it.
 

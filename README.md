@@ -10,7 +10,7 @@
   <a href="https://x.com/py_parrot" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1SJG_EodKVBB2iYBK0awGeSNn-EKk8PAU/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Q0DZX5LjM6Ty36EPSn4wbvmFDQ5Okog1/view?usp=sharing" target="_blank">
     <img alt="Resume Badge" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge">
   </a>
 </div>
